@@ -1,0 +1,17 @@
+.DS_Store
+/node_modules/
+/src/node_modules/@sapper/
+yarn-error.log
+/cypress/screenshots/
+/__sapper__/
+
+.vercel
+cypress.json
+cypress/fixtures/example.json
+cypress/integration/spec.js
+cypress/plugins/index.js
+cypress/support/commands.js
+cypress/support/index.js
+.env
+.vercelignore
+vercel.json
