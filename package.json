@@ -22,7 +22,7 @@
     "graphql": "^15.1.0",
     "graphql-request": "^2.0.0",
     "graphql-tag": "^2.10.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "polka": "next",
     "sirv": "1.0.1",
     "vercel": "19.1.1"
